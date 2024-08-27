@@ -1,4 +1,8 @@
--> github <- 
+-> github <-
  - Website / layanan untuk mengelola project git 
  - sebuah website yang didalamny menggunakan git 
  - layanan selain github bitbucket, gitlab
+
+#kenapa menggunakan vcs :
+- kesulitan membuat versi / history file
+ 
