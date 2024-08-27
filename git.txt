@@ -8,7 +8,8 @@
     - checkout : berpindah ke sebuah commit 
     - branch : cabang bebas dari sebuah commit 
     - merge : menggabungkan 2 buah atau lebih branch 
-    - remote : sumber yang memiliki repo
+    - remote1 : sumber yang memiliki repo
     - clone : mengambil repo dari remote 
     - push : mengirimkan commit ke repo 
     - pull : mengambil commit dari repo 
+    - pull1 : mengambil commit dari rep
