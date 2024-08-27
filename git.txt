@@ -1,3 +1,14 @@
 -> Git <-
 - sebuah vcs terdistribusi untuk mengelola perubahan file didalam folder 
 - sebuah sofware yang diinstal di komputer mengelola perubahan file didalam folder 
+ - istilah perintah / comand di dalam git 
+    - repo : folder project kita        
+    - commit : rekaman / snapshot dari repo kita pada keadaan tertentu
+    - hash : penanda unik dari sebuah commit 
+    - checkout : berpindah ke sebuah commit 
+    - branch : cabang bebas dari sebuah commit 
+    - merge : menggabungkan 2 buah atau lebih branch 
+    - remote : sumber yang memiliki repo
+    - clone : mengambil repo dari remote 
+    - push : mengirimkan commit ke repo 
+    - pull : mengambil commit dari repo 
