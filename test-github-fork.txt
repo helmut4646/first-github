@@ -1,0 +1,6 @@
+     - duplikat repo punya user lain disebut dengan forking 
+     - Membuat copy / duplikat dari repo orang lain (beserta historinya)
+     - jembatan antara repo original dan duplikatnya 
+     - Modifikasi terhadap repo original pada project kita sendiri 
+     - Berkontribusi terhadap repo orang lain 
+     - fork != clone 
