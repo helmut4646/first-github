@@ -8,7 +8,9 @@
     - checkout : berpindah ke sebuah commit 
     - branch : cabang bebas dari sebuah commit 
     - merge : menggabungkan 2 buah atau lebih branch 
-    - remote : sumber yang memiliki repo
+    - remote : sumber yang memiliki repo, repo nya berupa website
+    - remote : sumber yang memiliki repo, repo nya berupa website
     - clone : mengambil repo dari remote 
     - push : mengirimkan commit ke repo 
-    - pull : mengambil commit dari repo 
+    - pull : mengambil commit dari repo
+    -  teknik brancing and merging 
