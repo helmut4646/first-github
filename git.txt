@@ -16,4 +16,5 @@
     - clone : mengambil repo dari remote 
     - push : mengirimkan commit ke repo 
     - pull : mengambil commit dari repo
-    -  teknik brancing and merging 
+    -  teknik brancing and merging
+    - git hub fork 
