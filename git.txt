@@ -1,0 +1,2 @@
+-> Git <-
+- sebuah vcs terdistribusi untuk mengelola perubahan file didalam folder 
