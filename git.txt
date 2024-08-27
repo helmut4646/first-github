@@ -1,2 +1,3 @@
 -> Git <-
 - sebuah vcs terdistribusi untuk mengelola perubahan file didalam folder 
+- sebuah sofware yang diinstal di komputer mengelola perubahan file didalam folder 
